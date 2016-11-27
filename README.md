@@ -14,4 +14,8 @@ doctrine:fixtures:load
 composer require friendsofsymfony/user-bundle "~2.0@dev"
 (https://symfony.com/doc/master/bundles/FOSUserBundle/index.html)
 
+12
+--
+Error en pag. 243 LoadUserData.php
+
 
